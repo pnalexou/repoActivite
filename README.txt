@@ -1,0 +1,1 @@
+Ce code java permet à l'utilisateur d'insérer un nombre prédéfini de notes et de les afficher par le biais d'un petit résumé.
