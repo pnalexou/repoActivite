@@ -13,6 +13,8 @@ public class Exo3 {
 		
 		NOTES = new double [nb];
 		
+		// Bouche qui entre les notes dans un tableau
+		
 		for (cpt=0 ; cpt < nb ; cpt++)
 		{
 			System.out.print("Entrer la note n." + (cpt +1) + ": ") ;		
@@ -22,6 +24,8 @@ public class Exo3 {
 		System.out.print(NOTES[0]);
 		
 		System.out.print("Les notes saisies sont : " );
+		
+		// Boucle qui affiche les notes
 		
 		for (i=0;i<nb;i++);
 		{
