@@ -1,0 +1,2 @@
+NOTES: nom du tableau qui contient les notes.
+nb : variable qui stocke le nombre de notes à entrer selon le choix de l'utilisateur.
