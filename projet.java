@@ -11,7 +11,7 @@ public class Exo3 {
 		System.out.print("Entrer le nombre de notes à stocker : ");
 		nb = clavier.nextInt(); clavier.nextLine();
 		
-		NOTES = new double [nb];
+		NOTES = new double [nb+1];
 		
 		// Bouche qui entre les notes dans un tableau
 		
